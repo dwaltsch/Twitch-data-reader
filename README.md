@@ -24,3 +24,5 @@ This function reads the `follow.csv` and `follow_game.csv` files and extracts th
 This function reads the `chat_messages.csv` file and extracts the following information:
 - Total number of chat messages
 - Most common chat messages
+
+[read more](https://spblue.tech/content/posts/twitchdata.html)
